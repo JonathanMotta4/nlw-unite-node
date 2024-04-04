@@ -11,9 +11,13 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 ## Utilização
 
 - Clone este repositório
-- Instale as dependências ("npm install")
-- Execute o comando "npx prisma db seed" para adicionar algumas entradas no banco de dados
-- Execute o comando "npm run dev" para iniciar a API
+- Instale as dependências ```"npm install"```
+- Crie um arquivo .env na raiz do projeto contendo:
+  ```
+  DATABASE_URL="file:./dev.db"
+  ```
+- Execute o comando ```"npx prisma db seed"``` para adicionar algumas entradas no banco de dados
+- Execute o comando ```"npm run dev"``` ou ```"npm run start"``` para iniciar a API
 
 ---
 
@@ -36,9 +40,7 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 - [x] O participante só pode se inscrever em eventos com vagas disponíveis;
 - [x] O participante só pode realizar check-in em um evento uma única vez;
 
-### Requisitos não-funcionais
 
-- [x] O check-in no evento será realizado através de um QRCode;
 
 ## Documentação da API (Swagger)
 
