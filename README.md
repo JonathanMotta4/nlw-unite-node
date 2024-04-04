@@ -11,13 +11,13 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 ## Utilização
 
 - Clone este repositório
-- Instale as dependências ("npm install,pnpm install")
+- Instale as dependências ("npm install")
 - Execute o comando "npx prisma db seed" para adicionar algumas entradas no banco de dados
 - Execute o comando "npm run dev" para iniciar a API
 
 ---
 
-- (optional) Clone o repositório do [Front-end da aplicação]('https://github.com/JonathanMotta4/nlw-unite-react')
+- (optional) Clone o repositório do Front-end da aplicação: <https://github.com/JonathanMotta4/nlw-unite-react>
 
 ## Requisitos
 
