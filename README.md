@@ -21,8 +21,11 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
 ---
 
-- (optional) Clone o repositório do Front-end da aplicação: <https://github.com/JonathanMotta4/nlw-unite-react>
+- (Opcional) Clone o repositório do Front-end da aplicação: [Nlw-Unite-React](https://github.com/JonathanMotta4/nlw-unite-react)
 
+## Documentação da API (Swagger)
+
+Para documentação da API, acesse o link: <https://nlw-unite-nodejs.onrender.com/docs>
 ## Requisitos
 
 ### Requisitos funcionais
@@ -42,9 +45,7 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
 
 
-## Documentação da API (Swagger)
 
-Para documentação da API, acesse o link: <https://nlw-unite-nodejs.onrender.com/docs>
 
 ## Banco de dados
 
